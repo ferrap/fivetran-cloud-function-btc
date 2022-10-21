@@ -1,5 +1,5 @@
-# Tableau Web Data Connector for Bitcoin data
-This Tableau Web Data Connector retrieves historical data of Bitcoin (BTC) from the API of [CryptoCompare](https://min-api.cryptocompare.com/):
+# Fivetran Cloud Function for Bitcoin data
+This Fivetran Cloud Function retrieves historical data of Bitcoin (BTC) from the API of [CryptoCompare](https://min-api.cryptocompare.com/):
 
 Information obtained:
 * closing_date
